@@ -183,7 +183,7 @@ file compatibility dominate.
 
 ## Remaining effort and how it was calibrated
 
-**Calibration.** The Claude Code transcripts of the session that built CADCraft show its whole
+**Calibration.** The Development transcripts of the session that built CADCraft show its whole
 first version (about 51,000 lines, 290 commands, 47% menu breadth) took **about 11.5 Opus 5.5
 agent-hours**: 6.9 hours of the lead agent (2026-10-07 02:16–09:08 UTC) plus about 4.6 hours of
 eight sub-agents, some in parallel. (Git commit dates were rewritten earlier than that session

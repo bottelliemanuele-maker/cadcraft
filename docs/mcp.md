@@ -17,7 +17,7 @@ cadcraft-cli mcp --connect 127.0.0.1:7979
 exits with an error instead of falling back to a headless session, so a client meant for the app
 never edits a separate drawing by mistake. If the app can't be reached, startup fails too.
 
-Example client configuration (Claude Code / Claude Desktop):
+Example configuration for a compatible MCP client:
 
 ```json
 { "mcpServers": { "cadcraft": { "command": "cadcraft-cli", "args": ["mcp"] } } }
